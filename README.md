@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/9e/b6/45/9eb64510150a5eaa7bc6e89e366508e7.gif" alt="animated banner" />
 </p>
 
-<h3 align="center">Hi there! I'm Vynnox 👋</h3>
+<h3 align="center">Hi there! I'm Khafa XD👋</h3>
 
 <p align="center">
   I'm a passionate learner, always excited to explore new things. I may be a beginner, but I'm determined to keep improving every day! 🚀
@@ -20,15 +20,15 @@
 ---
 
 ### 📝 **Biodata**
-For more info, visit my [GitHub profile](https://github.com/LEXXYVDEV).
+For more info, visit my [GitHub profile](https://github.com/khafa199).
 
 ```json
 {
-  "Fullname": "Vynnox Empire",
-  "Nickname": "Vynnox",
+  "Fullname": "Muhammad Khafa Ramadhan",
+  "Nickname": "Khafa XD",
   "Status": "in a relationship",
-  "MyGril💕": "Sᴇᴠᴀ🌙"
-  "Location": "Kuningan, Jawa Barat, Indonesia",
+  "MyGril💕": "Dinda Rosmala🌙"
+  "Location": "Cakung, Jakarta Timur, Indonesia",
   "Age": "Still figuring it out...",
   "Birthday": "Undisclosed"
 }
@@ -63,9 +63,9 @@ Click the button below to visit my full profile:
 
 ### 🌐 **Find Me on Social Media**
 <p align="center"> 
-  <a href="https://instagram.com/dims_t11"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
-  <a href="https://www.youtube.com/@Dims_senpai"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
-  <a href="https://wa.me/6281398274790"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
+  <a href="https://instagram.com/khafa114"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
+  <a href="https://www.youtube.com/@khafa"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
+  <a href="https://wa.me/6281380847521"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 </p>
 
 ### 💖 **Support Me**
